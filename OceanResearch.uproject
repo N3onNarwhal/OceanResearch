@@ -14,6 +14,30 @@
 		{
 			"Name": "GameplayStateTree",
 			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "AudioModulation",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosModularVehicle",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosModularVehicleExamples",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosVehiclesPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "PCG",
+			"Enabled": true
 		}
 	]
 }
